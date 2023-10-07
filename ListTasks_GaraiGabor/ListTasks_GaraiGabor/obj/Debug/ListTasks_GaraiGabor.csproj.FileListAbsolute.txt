@@ -1,0 +1,7 @@
+E:\Petrik 2023 14SL\C#\ListTasks_GaraiGabor\ListTasks_GaraiGabor\bin\Debug\ListTasks_GaraiGabor.exe.config
+E:\Petrik 2023 14SL\C#\ListTasks_GaraiGabor\ListTasks_GaraiGabor\bin\Debug\ListTasks_GaraiGabor.exe
+E:\Petrik 2023 14SL\C#\ListTasks_GaraiGabor\ListTasks_GaraiGabor\bin\Debug\ListTasks_GaraiGabor.pdb
+E:\Petrik 2023 14SL\C#\ListTasks_GaraiGabor\ListTasks_GaraiGabor\obj\Debug\ListTasks_GaraiGabor.csproj.AssemblyReference.cache
+E:\Petrik 2023 14SL\C#\ListTasks_GaraiGabor\ListTasks_GaraiGabor\obj\Debug\ListTasks_GaraiGabor.csproj.CoreCompileInputs.cache
+E:\Petrik 2023 14SL\C#\ListTasks_GaraiGabor\ListTasks_GaraiGabor\obj\Debug\ListTasks_GaraiGabor.exe
+E:\Petrik 2023 14SL\C#\ListTasks_GaraiGabor\ListTasks_GaraiGabor\obj\Debug\ListTasks_GaraiGabor.pdb
